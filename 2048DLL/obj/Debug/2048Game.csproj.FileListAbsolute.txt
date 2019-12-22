@@ -1,0 +1,6 @@
+C:\Users\tomec\source\repos\2048_CSharp_Framework\2048DLL\bin\Debug\2048Game.dll
+C:\Users\tomec\source\repos\2048_CSharp_Framework\2048DLL\bin\Debug\2048Game.pdb
+C:\Users\tomec\source\repos\2048_CSharp_Framework\2048DLL\obj\Debug\2048Game.csprojAssemblyReference.cache
+C:\Users\tomec\source\repos\2048_CSharp_Framework\2048DLL\obj\Debug\2048Game.csproj.CoreCompileInputs.cache
+C:\Users\tomec\source\repos\2048_CSharp_Framework\2048DLL\obj\Debug\2048Game.dll
+C:\Users\tomec\source\repos\2048_CSharp_Framework\2048DLL\obj\Debug\2048Game.pdb

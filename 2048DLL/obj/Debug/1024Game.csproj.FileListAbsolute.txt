@@ -1,0 +1,6 @@
+C:\Users\tomec\source\repos\1024Game\1024Game\bin\Debug\1024Game.dll
+C:\Users\tomec\source\repos\1024Game\1024Game\bin\Debug\1024Game.pdb
+C:\Users\tomec\source\repos\1024Game\1024Game\obj\Debug\1024Game.csproj.CoreCompileInputs.cache
+C:\Users\tomec\source\repos\1024Game\1024Game\obj\Debug\1024Game.dll
+C:\Users\tomec\source\repos\1024Game\1024Game\obj\Debug\1024Game.pdb
+C:\Users\tomec\source\repos\1024Game\1024Game\obj\Debug\1024Game.csprojAssemblyReference.cache

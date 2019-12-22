@@ -1,0 +1,4 @@
+C:\Users\tomec\source\repos\2048_CSharp_Framework\UnitTest2048DLL\obj\Debug\UnitTest2048DLL.csprojAssemblyReference.cache
+C:\Users\tomec\source\repos\2048_CSharp_Framework\UnitTest2048DLL\obj\Debug\UnitTest2048DLL.csproj.CoreCompileInputs.cache
+C:\Users\tomec\source\repos\2048_CSharp_Framework\UnitTest2048DLL\obj\Debug\UnitTest1024DLL.dll
+C:\Users\tomec\source\repos\2048_CSharp_Framework\UnitTest2048DLL\obj\Debug\UnitTest1024DLL.pdb
